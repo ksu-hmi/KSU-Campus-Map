@@ -1,1 +1,4 @@
-In the source code, the app is fairly simple and is a good starting place for a helpful campus map. The search option is a good idea to help find locations on the map. In the future, it would be cool to integrate the campus map with google maps or openstreets to provide customized routes, etc.
+"Setup roadmap as a task list with check boxes. Assign team members for the next two week sprint to each tasks."
+[ ] find related repository and evaluate it (Kay)
+[ ] test repository and get it running, reporting on any issues and documenting how to make it work (Mal and Kay)
+[ ] make changes to improve ksu-campus-map repo (Mal)
