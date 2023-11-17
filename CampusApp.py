@@ -67,7 +67,7 @@ screen.title("Campus")
 screen.geometry("930x610")
 
 # What can be searched for
-title_question = tk.Label(screen, text="Classes to Search:")
+title_question = tk.Label(screen, text="Search:")
 title_question.pack(side = TOP)
 
 
@@ -76,7 +76,7 @@ entry_box = tk.Entry(screen)
 entry_box.pack(side = TOP)
 
 # Search Button
-search_button = tk.Button(screen, text="Search", bg="Blue",command=search)
+search_button = tk.Button(screen, text="Search", bg="Yellow",command=search)
 search_button.place(x = 550, y = 20)
 
 img = ImageTk.PhotoImage(Image.open("campus.png"))
