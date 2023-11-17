@@ -67,7 +67,7 @@ screen.title("Campus")
 screen.geometry("930x610")
 
 # What can be searched for
-title_question = tk.Label(screen, text="Search:")
+title_question = tk.Label(screen, text="Areas to Search:")
 title_question.pack(side = TOP)
 
 
