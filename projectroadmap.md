@@ -6,6 +6,8 @@
 
 [x] make changes to improve ksu-campus-map repo (Mal) still figuring out how to incorporate the new code and keep it functional. currently just tweaking files to make them relevant to KSU campus area.
 
+[x] add KSU Map button on ktinker terminal linked to customized KSU campus map on Google Maps (Mal)
+
 [in progress] set up OSM API Key and write code to bring up GPS coordinates for searched areas on the map. (Mal and Kay)
 
 Future changes TBD soon! Plans to incorporate highlighting searched locations on the map, and sending link to OSM for selected coordinates.
