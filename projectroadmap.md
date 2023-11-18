@@ -8,4 +8,6 @@
 
 [in progress] set up OSM API Key and write code to bring up GPS coordinates for searched areas on the map. (Mal and Kay)
 
+[ ] work on splash screen (Kay)
+
 Future changes TBD soon! Plans to incorporate highlighting searched locations on the map, and sending link to OSM for selected coordinates.

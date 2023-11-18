@@ -1,20 +1,19 @@
+Austin Residence Complex C-15, D-14
 
-Austin Residence Complex C-15, D-14 
 KSU Place C-2 
 KSU Place Clubhouse D-3 
 The Summit C-13 
 University Village C-4 
 University Village Suites D-4 
-
-Central Deck E-6 
-East Deck F-11 
-East Economy F-13 
-North Deck B-3 
-Shuttle Lot I-15 
-Town Point Economy E-18 
+Central Deck Parking E-6 
+East Deck Parking F-11 
+East Economy Parking F-13 
+North Deck Parking B-3 
+Shuttle Lot Parking I-15 
+Town Point Economy Parking E-18 
 Visitor Parking C-4, D-6, D-10, F-7 
-West Deck A-10 
-West Economy A-12, B-12  
+West Deck Parking A-10 
+West Economy Parking A-12, B-12  
 Academic Learning Center ( ALC ) D-8 480 
 ALC - Faculty Hoteling Space D-8 RM 3550 
 Admissions E-17 3391 
@@ -91,8 +90,3 @@ Willingham Hall - WHB-9420
 Wilson Annex - WAC-7462 
 Wilson Building - WBC-7471 
 Zuckerman Museum of ArtC-6492
-
-
-
-
-
