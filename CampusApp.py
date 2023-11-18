@@ -7,14 +7,14 @@ screen = tk.Tk()
 
 
 def search():
-	floors_file = open("Floors.txt", "r")
+	buildings_file = open("buildings.txt", "r")
 	flag = 0
 	start = 0
 	searched = str(entry_box.get())
-	last_position = floors_file.tell()
+	last_position = buildings_file.tell()
 	
-	# print (floors_file.readline())
-	"""for line in floors_file.readline():
+	# print (buildings_file.readline())
+	"""for line in buildings_file.readline():
 		print ("test 1")
 		print (line)
 		for word in line.split():
@@ -36,11 +36,11 @@ def search():
 	elif (searched >= "0" and searched < "4000000000000") or searched < "0":
 		pass
 	
-	elif searched in floors_file.read():
+	elif searched in buildings_file.read():
 		
-		floors_file.seek(last_position)		
+		buildings_file.seek(last_position)		
 		
-		for line in floors_file.readlines():
+		for line in buildings_file.readlines():
 			
 			if searched in line:			
 				start = 1
@@ -59,11 +59,11 @@ def search():
 		not_valid.place(x=625, y=25)
 		print("Not a valid input")
 	
-	floors_file.close()
+	buildings_file.close()
 
 
 # screen title and size
-screen.title("Campus")
+screen.title("Kennesaw State Campus")
 screen.geometry("930x610")
 
 # What can be searched for
